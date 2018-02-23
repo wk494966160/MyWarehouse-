@@ -11,10 +11,6 @@ ms
 >
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
-## 其他语言版本
-
-- [English](./README.md)
-
 ## 目录
 - [在线练习](#在线练习)
 - [在线面试编程](#在线面试编程)
