@@ -1,3 +1,5 @@
+ms
+我的第一个仓库
 > * 原文地址：[github.com/kdn251/interviews](https://github.com/kdn251/interviews)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 译者：[王下邀月熊](https://github.com/wxyyxc1992)
